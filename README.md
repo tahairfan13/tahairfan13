@@ -12,6 +12,8 @@ With expertise in **Ruby on Rails, MERN (MongoDB, Express.js, React.js, Node.js)
 ### [React Snippets Repository](https://github.com/tahairfan13/react_sample_snippets)
 A collection of ReactJS/NextJS code snippets and patterns I've found useful in my projects.
 
+### Rails Code Samples
+- [Tic Tac Toe game](https://github.com/tahairfan13/tic-tac-toe)
 
 ## Featured Projects
 
